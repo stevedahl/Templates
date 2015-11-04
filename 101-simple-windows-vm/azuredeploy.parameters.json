@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "newStorageAccountName": {
-      "value": "templates"
+      "value": "sdstore2"
     },
     "adminUsername": {
       "value": "admin123"
